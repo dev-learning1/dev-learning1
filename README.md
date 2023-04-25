@@ -19,10 +19,10 @@
     
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-learning1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-learning1&show_icons=true&theme=dracula&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;color=fff") <br>
 
 
-### 👋 GitHub Hit
-<a href="https://github.com/dev-learning1"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-learning1&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
-
+### 📊 Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjdo98)](https://solved.ac/hjdo98)
