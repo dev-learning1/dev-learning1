@@ -3,8 +3,8 @@
 ### 🐱 About Me
 
 안녕하세요! "학습하는 개발자" 도희정입니다.<br>
-노션 - <a href="https://www.notion.so/cb12fda3080e46d38424dbe4cfacf2f5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><a/><br>
-이메일 - [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlearning98@gmail.com)](mailto:devlearning98@gmail.com)  
+* 노션 - <a href="https://www.notion.so/cb12fda3080e46d38424dbe4cfacf2f5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"><a/><br>
+* 이메일 - [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlearning98@gmail.com)](mailto:devlearning98@gmail.com)  
 
 ### 🛠️ Stacks
 
