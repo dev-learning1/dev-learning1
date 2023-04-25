@@ -21,12 +21,12 @@
     
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamelIsTheBestConvention&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-learning1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-learning1&show_icons=true&theme=dracula&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;color=fff") <br>
 
 
-### 📊 Baekjoon
+### ✍️ Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjdo98)](https://solved.ac/hjdo98)
