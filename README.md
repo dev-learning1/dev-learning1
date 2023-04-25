@@ -8,8 +8,8 @@
 
 ### 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3"> <img src="https://img.shields.io/badge/JAVA-6699CB?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3"> <img src="https://img.shields.io/badge/JAVA-6699CB?style=flat-square&logo=Java&logoColor=white"/> 	![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"></div>
 
 
@@ -20,11 +20,13 @@
 
     
 ### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-learning1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamelIsTheBestConvention&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-learning1&show_icons=true&theme=dracula&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;color=fff") <br>
 
 
 ### 📊 Baekjoon
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjdo98)](https://solved.ac/hjdo98)
