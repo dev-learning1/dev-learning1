@@ -7,10 +7,11 @@
 
 ### 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3"> ![react](https://img.shields.io/badge/react-%230769AD.svg?style=flat-square&logo=react&logoColor=white) <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-6699CB?style=flat-square&logo=Java&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"></div>
+**Robotics & Simulation**<br>
+<img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Qt6_C++-41CD52?style=flat-square&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=MQTT&logoColor=white"/>
 
+**Frontend**<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-### 💪🏼 Tools 
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+**Backend & Data**<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
